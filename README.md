@@ -1,17 +1,18 @@
-# 🛰️ Podcastr - Aplicação web criada com Next.js
+# 🛰️ Podcastr - Web application created with Next.js
 
-Através dessa aplicação foi possível implementar as funcionalidades mais comuns de um player como: play, pause, next, previous, shufle e repeat, bem como, controlar o tempo de reprodução de um determinado audio através de um componente de slider. Isso tudo utilizando a context api do React e o conceito de Refs para manipular elementos e eventos nativos do HTML utlizando a tag <audio />.
+Through this application it was possible to implement the most common functionalities of a player such as: play, pause, next, previous, shufle and repeat, as well as, control the playing time of a certain audio through a slider component. All of this using React's context api and the Refs concept to manipulate native HTML elements and events using the tag.
 
-Além disso foi possível revisar e aprender muita coisa relacionada criação de uma aplicação com Next.js, como por exemplo:  
- - SPA's
- - Server Side Rendering
- - Static Site Generation
- - CSS com Sass
- - Back-end dentro do Front-end
- - Roteamento utilizando o File System Routing
- - Uso dos métodos getStaticProps, getStaticPaths e getServerSideProps
- - Geração de páginas estáticas e dinâmicas
- - Build do projeto 
+In addition it was possible to review and learn a lot related to creating an application with Next.js, such as:
+
+- SPA's
+- Server Side Rendering
+- Static Site Generation
+- CSS with Sass
+- Back-end within the Front-end
+- Routing using File System Routing
+- Using the getStaticProps, getStaticPaths and getServerSideProps methods
+- Generation of static and dynamic pages
+- Project Build
 
 ![](image1.png)
 ![](image2.png)
