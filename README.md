@@ -5,7 +5,7 @@ Através dessa aplicação foi possível implementar as funcionalidades mais com
 Além disso foi possível revisar e aprender muita coisa relacionada criação de uma aplicação com Next.js, como por exemplo:  
  - SPA's
  - Server Side Rendering
- - Static Side Generation
+ - Static Site Generation
  - CSS com Sass
  - Back-end dentro do Front-end
  - Roteamento utilizando o File System Routing
